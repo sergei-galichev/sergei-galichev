@@ -52,4 +52,4 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sergei-galichev&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![codewars](https://www.codewars.com/users/DCS-Engineer/badges/small)](https://www.codewars.com/users/DCS-Engineer)
+[![codewars](https://www.codewars.com/users/sergei.galichev/badges/small)](https://www.codewars.com/users/sergei.galichev)
