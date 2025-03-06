@@ -13,10 +13,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+:telescope:
 -->
 ### ℹ️ About Me :
 
-- :telescope: [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I’m+working+as+a+Backend+Engineer)](https://git.io/typing-svg)
+- [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I’m+working+as+a+Backend+Engineer)](https://git.io/typing-svg)
 
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sgalichev/)
