@@ -1,4 +1,5 @@
-## Hi there 👋
+##  👋
+<h1 align="center">Hi, I'm Sergei <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <!--
 **sergei-galichev/sergei-galichev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
