@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 
 [![codewars](https://www.codewars.com/users/sergei.galichev/badges/small)](https://www.codewars.com/users/sergei.galichev)
 
-![](https://leetcard.jacoblin.cool/dcs-engineer)
+![](https://leetcard.jacoblin.cool/dcs-engineer/?ext=activity)
