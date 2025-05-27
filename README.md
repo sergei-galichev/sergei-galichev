@@ -53,4 +53,4 @@ Here are some ideas to get you started:
 
 [![codewars](https://www.codewars.com/users/sergei.galichev/badges/small)](https://www.codewars.com/users/sergei.galichev)
 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=KnlnKS)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=dcs-engineer)](https://github.com/KnlnKS/leetcode-stats)
